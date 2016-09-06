@@ -1,0 +1,11 @@
+Nombre del Archivo: ./gdb/gdb13.dat Distancia inicial: 241	 número de iteraciones:  3973	 distancia final es: 241
+Nombre del Archivo: ./gdb/gdb14.dat Distancia inicial: 49	 número de iteraciones:  3573	 distancia final es: 49
+Nombre del Archivo: ./gdb/gdb15.dat Distancia inicial: 30	 número de iteraciones:  4212	 distancia final es: 30
+Nombre del Archivo: ./gdb/gdb16.dat Distancia inicial: 64	 número de iteraciones:  1404	 distancia final es: 64
+Nombre del Archivo: ./gdb/gdb17.dat Distancia inicial: 40	 número de iteraciones:  1138	 distancia final es: 40
+Nombre del Archivo: ./gdb/gdb18.dat Distancia inicial: 79	 número de iteraciones:  4110	 distancia final es: 79
+Nombre del Archivo: ./gdb/gdb19.dat Distancia inicial: 24	 número de iteraciones:  4917	 distancia final es: 24
+Nombre del Archivo: ./gdb/gdb20.dat Distancia inicial: 58	 número de iteraciones:  2564	 distancia final es: 58
+Nombre del Archivo: ./gdb/gdb21.dat Distancia inicial: 79	 número de iteraciones:  3238	 distancia final es: 79
+Nombre del Archivo: ./gdb/gdb22.dat Distancia inicial: 109	 número de iteraciones:  1585	 distancia final es: 109
+Nombre del Archivo: ./gdb/gdb23.dat Distancia inicial: 103	 número de iteraciones:  1062	 distancia final es: 103
